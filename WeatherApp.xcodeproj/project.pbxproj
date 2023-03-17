@@ -28,11 +28,11 @@
 		CE7C54A429A938C400B03731 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CE7C54A629A938C700B03731 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE7C54A929A938C700B03731 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		CE7C54AB29A938C700B03731 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE7C54B129A939DC00B03731 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
 		CE7C54B329A939FD00B03731 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		CE7C54B529A93A2800B03731 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		CE7C54B729A93A3600B03731 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		CE88E68C29C475F1006C2D6C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CEFDBB3129A940BC00513E0E /* Constants Template.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Constants Template.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -74,7 +74,7 @@
 				CEFDBB2F29A9404F00513E0E /* View */,
 				CE7C54A629A938C700B03731 /* Assets.xcassets */,
 				CE7C54A829A938C700B03731 /* LaunchScreen.storyboard */,
-				CE7C54AB29A938C700B03731 /* Info.plist */,
+				CE88E68C29C475F1006C2D6C /* Info.plist */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";

@@ -35,7 +35,7 @@
                                                 <color key="tintColor" systemColor="labelColor"/>
                                                 <state key="normal" backgroundImage="location.circle.fill" catalog="system"/>
                                                 <connections>
-                                                    <action selector="NavigateButton:" destination="06F-Df-dQG" eventType="touchUpInside" id="cYS-Jg-XSI"/>
+                                                    <action selector="locationPressed:" destination="06F-Df-dQG" eventType="touchUpInside" id="ZXV-ke-9TQ"/>
                                                 </connections>
                                             </button>
                                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Search" textAlignment="right" clearsOnBeginEditing="YES" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="O1o-c2-fzQ">
